@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "notes": "Bản đầu tiên (60 từ)",
+  "files": [
+    {
+      "path": "vocab.json",
+      "sha256": "691d6271ff156a07250cb965dd553f0774c33f87c684885c52b5e04bb835c089",
+      "size": 25398
+    }
+  ]
+}
